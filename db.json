@@ -1,8 +1,8 @@
 {
   "Orders": [
-    {"Name": "Vishnu", "Type": "Outlettransfer", "Date": "26 Jan 2016", "DeliveryDue": "-", "Number": "-", "Outlet": "Qween West", "Source": "Source", "Status": "Open", "OrderType": "Open Orders", "Items": 1},
-    {"Name": "Surendhar", "Type": "Outlettransfer", "Date": "20 Feb 2016", "DeliveryDue": "-", "Number": "-", "Outlet": "Qween West", "Source": "Source", "Status": "Open", "OrderType": "Open Orders", "Items": 0},
-    {"Name": "Vinay", "Type": "Outlettransfer", "Date": "20 Mar 2016", "DeliveryDue": "-", "Number": "-", "Outlet": "Qween West", "Source": "Source", "Status": "Sent", "OrderType": "Sent Orders", "Items": 1},
-    {"Name": "Ajay", "Type": "Outlettransfer", "Date": "20 Apr 2016", "DeliveryDue": "-", "Number": "-", "Outlet": "Qween West", "Source": "Source", "Status": "Sent", "OrderType": "Sent Orders", "Items": 0}
+    {"Name": "Vishnu", "Type": "Outlettransfer", "Date": "26 Jan 2016", "DeliveryDue": "-", "Number": "-", "Outlet": "Qween West", "Source": "Source", "Status": "Open", "OrderType": "Open Orders", "Items": 1, "ItemCost":2.000},
+    {"Name": "Surendhar", "Type": "Outlettransfer", "Date": "20 Feb 2016", "DeliveryDue": "-", "Number": "-", "Outlet": "Qween West", "Source": "Source", "Status": "Open", "OrderType": "Open Orders", "Items": 0, "ItemCost":2.000},
+    {"Name": "Vinay", "Type": "Outlettransfer", "Date": "20 Mar 2016", "DeliveryDue": "-", "Number": "-", "Outlet": "Qween West", "Source": "Source", "Status": "Sent", "OrderType": "Sent Orders", "Items": 1, "ItemCost":2.000},
+    {"Name": "Ajay", "Type": "Outlettransfer", "Date": "20 Apr 2016", "DeliveryDue": "-", "Number": "-", "Outlet": "Qween West", "Source": "Source", "Status": "Sent", "OrderType": "Sent Orders", "Items": 0, "ItemCost":2.000}
     ]
 }
